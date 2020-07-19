@@ -8,7 +8,7 @@
 - K. Lizette Gamboa Puente (GitHub: LizzyGamboa) (mail: lizzygamboap@gmail.com) (Project Manager)
 
 ## Objetivo
-A traves de la práctica final se busca mostrar el aprendizaje obtenido dentro del curso Propedeutico de la Maestria en Ciencia de Datos, dando uso uso de la amplia gama de paquetes que proporcionan Python y R para análisis de datos y resolución de problemas.
+A traves de la práctica final se busca mostrar el aprendizaje obtenido dentro del curso Propedeutico de la Maestria en Ciencia de Datos, dando uso de la amplia gama de paquetes que proporcionan Python y R para análisis de datos y resolución de problemas.
 
 
 ## Herramientas 
