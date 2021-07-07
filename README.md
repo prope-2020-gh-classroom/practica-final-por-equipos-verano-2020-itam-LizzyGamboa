@@ -1,3 +1,74 @@
+
+# Practica final por equipos prope 2020 
+
+## Autores: 
+
+- Yusuri Arciga Reyes (GitHub: YusuriAR) (mail:yusuri.ar@gmail.com)
+- Iván Salgado Velázquez (GitHub: IvanSalgadoVel) (mail:ivan.salgadovel@gmail.com)
+- K. Lizette Gamboa Puente (GitHub: LizzyGamboa) (mail: lizzygamboap@gmail.com) (Project Manager)
+
+## Objetivo
+A traves de la práctica final se busca mostrar el aprendizaje obtenido dentro del curso Propedeutico de la Maestria en Ciencia de Datos, dando uso de la amplia gama de paquetes que proporcionan Python y R para análisis de datos y resolución de problemas.
+
+
+## Herramientas 
+* Lenguaje de programación R.
+* Git como la herramienta de control de versiones para el trabajo de equipo. 
+* Rstudio pára análisis. 
+* Jupyter Notebooks para el análisis y presentación de resultados. 
+
+
+## Descripción de los datos 
+
+Se seleccionó una base de datos de Peliculas obtenida de [Kaggle](https://www.kaggle.com/danielgrijalvas/movies), en ella se tienen los siguientes datos: 
+
+* budget: Presupuesto de la película.
+* company: Compañia que hizo la película.
+* country: País de origen de la película.
+* director: Director de la película.
+* genre: Género de la película.
+* gross: Ganancia bruta de la película.
+* name: Nombre de la película.
+* rating: Clasificación de la película.
+* released: Fecha de lanzamiento de la película.
+* runtime: Duración de la película en minutos.
+* score: Puntuación de la película.
+* star: Actor/actriz principal de la película.
+* votes: Votos para la puntuación de la película.
+* writer: Escritor del guión de la película.
+* year: Año de estreno de la película.
+
+
+## Paquetes utilizados
+
+* ggplot2
+* GGally
+* dplyr 
+* tidyr
+
+
+
+## ¿Fecha de entrega?
+
+Domingo 19 de julio 11:59 pm  `<practica_final_equipo_12>.ipynb` 
+
+
+## ¿Calificación y porcentaje?
+
+30% de acuerdo a lo presentado el primer día del curso dividido en:
+
+* 5% trabajo escrito.
+* 10% uso de los paquetes del lenguaje asignado.
+* 10% trabajo individual evaluado vía los *commits* realizados en github.
+* 5% trabajo y uso de la funcionalidad de github por todo el equipo.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+
+
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2907145&assignment_repo_type=AssignmentRepo)
 # practica-final-por-equipos-2020
 
@@ -82,5 +153,6 @@ Crear un nuevo `README.md` en la raíz de su repo colocando el tema, paquete a u
 |:--:|:--:|
 |Erica|[erica80]()|
 |Erick|[palmoreck](https://github.com/palmoreck)|
+
 
 
